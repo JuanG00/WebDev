@@ -1,0 +1,12 @@
+.paracolor{
+    color: rgb(8, 79, 11);
+    border: 2px dotted;
+}
+
+p{
+    color: blue;
+}
+
+.paracolor.para2{
+    color: aquamarine;
+}
